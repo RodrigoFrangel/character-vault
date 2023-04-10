@@ -6,13 +6,13 @@ status_options = [
 ]
 
 debut_options = [
+    "A Espada Vol. 1",
     "Cataclisma",
     "Cataclisma Parte II",
     "Cataclisma: Capítulo Final",
-    "O Rei Amarelo",
-    "O Caos Rastejante",
     "Mundo Isekai",
-    "A Espada Vol. 1"
+    "O Rei Amarelo",
+    "O Caos Rastejante"
 ]
 
 gender_options = [
@@ -34,8 +34,8 @@ orientation_options = [
 game_options = [
     "Dungeons & Dragons",
     "Chamado de Cthulhu",
-    "Cyberpunk RED",
     "Ordem Paranormal",
+    "Cyberpunk RED",
     "Outro"
 ]
 

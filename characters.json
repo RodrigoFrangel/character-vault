@@ -195,5 +195,77 @@
             "Elias"
         ],
         "player": "Rhuan Mascaro"
+    },
+    {
+        "name": "Alexa Kierralys",
+        "alias": "Dama da Cura",
+        "age": "0",
+        "status": "Vivo",
+        "debut": "Mundo Isekai",
+        "race": "Eco humano",
+        "height": "1,57m",
+        "weight": "54kg",
+        "gender": "Mulher",
+        "summary": "",
+        "orientation": "Omnissexual",
+        "game": "Dungeons & Dragons",
+        "description": "",
+        "feats": "Está constantemente salvando a vida de seus companhiros e os ressuscitando",
+        "death": "",
+        "background": "",
+        "origin": "Desconhecido",
+        "alignment": "Leal e Bom",
+        "friends": [
+            "Hrodric de Aizengart"
+        ],
+        "player": "Rodrigo Frangel"
+    },
+    {
+        "name": "aaaaaaaaaaaaaaaa",
+        "alias": "aaaaaaaaaaaaaaaaa",
+        "age": "aaaaaaaaaaaaaaaaaaa",
+        "status": "Morto",
+        "debut": "Cataclisma: Capítulo Final",
+        "race": "aaaaaaaaaaaaaaaaa",
+        "height": "123m",
+        "weight": "123kg",
+        "gender": "aaaaaaaaaaaaaaaaaaaaaa",
+        "summary": "123123123123",
+        "orientation": "Hétero",
+        "game": "fffffffffffffffffffffffffff",
+        "description": "123123123123",
+        "feats": "1231231231232",
+        "death": "123213",
+        "background": "11111111111111111",
+        "origin": "1111111111111",
+        "alignment": "1111111111111111",
+        "friends": [
+            "11111111111111111111"
+        ],
+        "player": "Felipe Souza"
+    },
+    {
+        "name": "",
+        "alias": "",
+        "age": "",
+        "status": "Vivo",
+        "debut": "A Espada Vol. 1",
+        "race": "",
+        "height": "m",
+        "weight": "kg",
+        "gender": "Homem",
+        "summary": "",
+        "orientation": "Hétero",
+        "game": "Dungeons & Dragons",
+        "description": "",
+        "feats": "aaaaaaaaaaaaaaaaaaaa",
+        "death": "a",
+        "background": "",
+        "origin": "",
+        "alignment": "",
+        "friends": [
+            ""
+        ],
+        "player": "Felipe Souza"
     }
 ]
