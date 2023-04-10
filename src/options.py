@@ -1,11 +1,11 @@
-status_choices = [
+status_options = [
     "Vivo",
     "Morto",
     "Desaparecido",
     "Outro"
 ]
 
-debut_choices = [
+debut_options = [
     "Cataclisma",
     "Cataclisma Parte II",
     "Cataclisma: Capítulo Final",
@@ -15,7 +15,7 @@ debut_choices = [
     "A Espada Vol. 1"
 ]
 
-gender_choices = [
+gender_options = [
     "Homem",
     "Mulher",
     "Trans",
@@ -23,7 +23,7 @@ gender_choices = [
     "Outro",
 ]
 
-orientation_choices = [
+orientation_options = [
     "Hétero",
     "Gay",
     "Bissexual",
@@ -31,10 +31,18 @@ orientation_choices = [
     "Outro"
 ]
 
-game_choices = [
-    "Dungeons and Dragons",
+game_options = [
+    "Dungeons & Dragons",
     "Chamado de Cthulhu",
     "Cyberpunk RED",
     "Ordem Paranormal",
+    "Outro"
+]
+
+player_options = [
+    "Felipe Souza",
+    "Gabriel Schutt",
+    "Rhuan Mascaro",
+    "Rodrigo Frangel",
     "Outro"
 ]
