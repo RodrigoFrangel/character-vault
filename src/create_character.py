@@ -1,12 +1,13 @@
 import inquirer
 import json
 
-from input_choices import (
-     status_choices,
-     debut_choices,
-     gender_choices,
-     orientation_choices,
-     game_choices
+from options import (
+     status_options,
+     debut_options,
+     gender_options,
+     orientation_options,
+     game_options,
+     player_options
 )
 
 
@@ -21,13 +22,13 @@ def create_character():
     status = inquirer.prompt([
         inquirer.List('status',
                       message="Status atual",
-                      choices=status_choices,
+                      choices=status_options,
                       ),
     ])['status']
     debut = inquirer.prompt([
         inquirer.List('debut',
                       message="Sua primeira aparição",
-                      choices=debut_choices,
+                      choices=debut_options,
                       ),
     ])['debut']
 
@@ -38,20 +39,21 @@ def create_character():
     gender = inquirer.prompt([
         inquirer.List('gender',
                       message="Gênero do personagem",
-                      choices=gender_choices,
+                      choices=gender_options,
                       ),
     ])['gender']
     orientation = inquirer.prompt([
         inquirer.List('orientation',
                       message="Orientação sexual do personagem",
-                      choices=orientation_choices,
+                      choices=orientation_options,
                       ),
     ])['orientation']
+
     # Narrative
     game = inquirer.prompt([
         inquirer.List('game',
                       message="Sistema do RPG",
-                      choices=game_choices,
+                      choices=game_options,
                       ),
     ])['game']
     summary = input("Escreva uma descrição curta (150): ")[:150]
@@ -59,11 +61,17 @@ def create_character():
     feats = input("Seus maiores feitos (150): ")[:150]
     death = input("Causa da morte: ")[:50]
     background = input("Escreva sobre seu passado (150): ")[:150]
+    origin = input("Escreva seu local de origem: ")
     alignment = input("Alinhamento do personagem: ")
     friends = input(
         "Amizades mais próximas (separado por vírgulas): "
     ).split(",")
-    player = input("Nome do jogador(a): ")
+    player = inquirer.prompt([
+        inquirer.List('player',
+                      message="Nome do jogador(a)",
+                      choices=player_options,
+                      ),
+    ])['player']
 
     # Create a dictionary to store the character information
     character = {
@@ -83,6 +91,7 @@ def create_character():
         "feats": feats,
         "death": death,
         "background": background,
+        "origin": origin,
         "alignment": alignment,
         "friends": friends,
         "player": player
@@ -102,7 +111,7 @@ def write_to_file(character):
 
     # Write the updated data to the file
     with open("characters.json", "w", encoding="utf-8") as file:
-        json.dump(data, file, indent=4)
+        json.dump(data, file, ensure_ascii=False, indent=4)
 
 
 new_character = create_character()
