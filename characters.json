@@ -111,36 +111,5 @@
             "Elias"
         ],
         "player": "Felipe Souza"
-    },
-    {
-        "name": "Barbie",
-        "alias": "Mui\u00e9",
-        "age": "14",
-        "status": "vivo",
-        "debut": "Barbie 97",
-        "race": "Boneco",
-        "height": [
-            ""
-        ],
-        "weight": [
-            ""
-        ],
-        "gender": [
-            ""
-        ],
-        "summary": "",
-        "orientation": [
-            ""
-        ],
-        "game": "",
-        "description": "",
-        "feats": "",
-        "death": "atropelado",
-        "background": "",
-        "alignment": "",
-        "friends": [
-            ""
-        ],
-        "player": "Rodrigo"
     }
 ]
