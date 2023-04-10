@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Elias Gonzaga",
+        "alias": "The Wizard",
+        "age": "67",
+        "status": "Alive",
+        "race": "Human",
+        "height": "1,57m",
+        "weight": "",
+        "gender": "Man",
+        "orientation": "Straight",
+        "game": "Ordem Paranormal",
+        "summary": "Elias was an elderly mortician that became the strongest wizard alive (for a brief moment)",
+        "description": "",
+        "feats": "Elias killed the strongest wizards of his time, saved the capital city and lived to see the fruits of his efforts",
+        "death": "",
+        "background": "Elias was a college professor with a PhD in Psychology and was married to a beautiful woman named Cassandra",
+        "alignment": "Chaotic Good",
+        "friends": [
+            "Percival",
+            "Valdo"
+        ],
+        "player": "Rodrigo Frangel"
+    },
+    {
+        "name": "Bess/Eternal/Aloka",
+        "alias": "King of Lothric",
+        "age": "22/Everlasting/16",
+        "status": "Alive",
+        "height": "1,66m",
+        "race": "Perpetual/Celestial/Creation",
+        "gender": "Non-binary/Man/Woman",
+        "orientation": "Pansexual/Asexual/Undefined",
+        "game": "Dungeons and Dragons",
+        "summary": "A god-like being who has Dissociative Identity Disorder",
+        "description": "",
+        "feats": "Saved the realm of Goldring from an powerful demon prince, was crowned king of the biggest kingdom in the realm and became the last of its kind",
+        "background": "Bess was a god-like being known as Perpetual.  It decided to become human in an effort to understand mortals and save them from its own siblings",
+        "alignment": "Chaotic Good/Lawful Good/Chaotic Neutral",
+        "friends": [
+            "Vall",
+            "The Former Queen of Lothric"
+        ],
+        "player": "Rodrigo Frangel"
+    },
+    {
+        "name": "Miranda",
+        "alias": "Eleanor Rose",
+        "age": "34",
+        "status": "Alive",
+        "race": "Human",
+        "height": "1,74m",
+        "weight": "",
+        "gender": "Woman",
+        "orientation": "Bisexual",
+        "game": "Call of Cthulhu",
+        "summary": "Miranda lived a very cruel life but never lost her will to live and see a better day",
+        "description": "",
+        "feats": "Saved the world from The Yellow King's return, killed Hitler, died and was ressurrected, and then defeated Nyarlathotep, saving the world a again",
+        "death": "",
+        "background": "As a little girl, Miranda lost her mother, lived in the streets, became a toy to a rich sadistic man, became paraplegic and was thrown on the streets",
+        "alignment": "Chaotic Neutral",
+        "friends": [
+            "None"
+        ],
+        "player": "Rodrigo Frangel"
+    },
+    {
+        "name": "Rodrigo Frangel",
+        "alias": "Hrodric de Aizengart",
+        "age": "26",
+        "status": "Vivo",
+        "debut": "Dungeons & Dragons: Isekai",
+        "race": "Humano",
+        "height": "1,86m",
+        "weight": "75kg",
+        "gender": "N\u00e3o-bin\u00e1rio",
+        "summary": "Rodrigo foi transportado do mundo real para um mundo de fantasia, com direito a espadas, magias e drag\u00f5es",
+        "orientation": "Pansexual",
+        "game": "Dungeons & Dragons",
+        "description": "Ao ser transportado para um mundo de fantasia, Rodrigo viu uma oportunidade de desempenhar o papel de um protagonista de animes isekai, mas logo viu que as regras desse mundo novo n\u00e3o eram nada balanceadas e morrer era t\u00e3o f\u00e1cil que parecia ser mais uma vers\u00e3o fant\u00e1stica do filme Premoni\u00e7\u00e3o. Para sobreviver, ele precisou usar sua intelig\u00eancia e cautela",
+        "feats": "Salvou cinco elfas e mais de 80 escravos, matou um Behir, um druida doid\u00e3o, e purificou a alma do pr\u00edncipe an\u00e3o",
+        "death": "",
+        "background": "Rodrigo cresceu com jogos e coisas nerds, sempre sonhando em um dia ser um her\u00f3i ele mesmo. Um dia, ele conseguiu realizar seu desejo",
+        "alignment": "Ca\u00f3tico e Bom",
+        "friends": [
+            "Rhuan",
+            "Felipe"
+        ],
+        "player": "Rodrigo Frangel"
+    },
+    {
+        "name": "Percival",
+        "alias": "Professor",
+        "age": "42",
+        "status": "Morto",
+        "debut": "Ordem Paranormal: Cataclisma",
+        "race": "Homem",
+        "height": "1,70 m",
+        "weight": "98 Kg",
+        "gender": "Homem",
+        "summary": "Um professor que amava o que fazia, sonhava em achar sua mulher desaparecida e voltar a ser feliz",
+        "orientation": "Heterossexual",
+        "game": "Ordem Paranormal",
+        "description": "Professor de literatura e hist\u00f3ria, focado em seus objetivos, em busca da sua mulher desapareida, um grande amigo de Elias, depressivo, estressado, rancoroso, mas com um cora\u00e7\u00e3o puro e sincero.",
+        "feats": "Matou o cardial, salvou um vilarejo, se sacrificou para salvar sua mulher.",
+        "death": "Pacto com a entidade do sangue",
+        "background": "Um homem que via o laddo bom da vida, estudava o que amava n\u00e3o por obriga\u00e7\u00e3o, mas porque amava criar hist\u00f3rias, principalmente para ver sua mulher com",
+        "alignment": "Ca\u00f3tico e bom",
+        "friends": [
+            "Elias"
+        ],
+        "player": "Felipe Souza"
+    },
+    {
+        "name": "Barbie",
+        "alias": "Mui\u00e9",
+        "age": "14",
+        "status": "vivo",
+        "debut": "Barbie 97",
+        "race": "Boneco",
+        "height": [
+            ""
+        ],
+        "weight": [
+            ""
+        ],
+        "gender": [
+            ""
+        ],
+        "summary": "",
+        "orientation": [
+            ""
+        ],
+        "game": "",
+        "description": "",
+        "feats": "",
+        "death": "atropelado",
+        "background": "",
+        "alignment": "",
+        "friends": [
+            ""
+        ],
+        "player": "Rodrigo"
+    }
+]
