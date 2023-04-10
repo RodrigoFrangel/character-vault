@@ -111,5 +111,30 @@
             "Elias"
         ],
         "player": "Felipe Souza"
+    },
+    {
+        "name": "Elias Gonzaga",
+        "alias": "O Bruxo",
+        "age": "76",
+        "status": "Morto",
+        "debut": "Cataclisma",
+        "race": "Humano",
+        "height": "1,57m",
+        "weight": "51kg",
+        "gender": "Homem",
+        "summary": "Elias was an elderly mortician that became the strongest wizard alive (for a brief moment)",
+        "orientation": "H\u00e9tero",
+        "game": "Ordem Paranormal",
+        "description": "Elias foi um homem de vida sofrida, que viu todos os seus amigos morrerem em sua frente mas que no final, foi o \u00fanico que conseguiu sobreviver para ver os frutos de seus esfor\u00e7os.",
+        "feats": "Matou o padre Paulo, o Cardial e derrotou o Eli, salvando a cidade toda.",
+        "death": "Velhice",
+        "background": "n\u00e3o quero",
+        "alignment": "Bom",
+        "friends": [
+            "Valdo",
+            "Percival",
+            "Jessica"
+        ],
+        "player": "Rodrigo Frangel"
     }
 ]

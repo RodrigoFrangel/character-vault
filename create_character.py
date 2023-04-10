@@ -1,3 +1,4 @@
+import inquirer
 import json
 
 
@@ -7,18 +8,75 @@ def create_character():
     name = input("Nome do personagem: ")
     alias = input("Apelido do personagem: ")
     age = input("Idade do personagem: ")
-    status = input("Status atual (vivo/morto/desaparecido): ")
-    debut = input("Sua primeira aparição: ")
+
+    # Use inquirer to display options for "status"
+    status_choices = ["Vivo", "Morto", "Desaparecido", "Outro"]
+    status = inquirer.prompt([
+        inquirer.List('status',
+                      message="Status atual",
+                      choices=status_choices,
+                      ),
+    ])['status']
+    debut_choices = [
+        "Cataclisma",
+        "Cataclisma Parte II",
+        "Cataclisma: Capítulo Final",
+        "O Rei Amarelo",
+        "O Caos Rastejante",
+        "Mundo Isekai",
+        "A Espada Vol. 1"
+    ]
+    debut = inquirer.prompt([
+        inquirer.List('debut',
+                      message="Sua primeira aparição",
+                      choices=debut_choices,
+                      ),
+    ])['debut']
 
     # Physical Information
     race = input("Raça do personagem: ")
-    height = input("Altura do personagem: "),
-    weight = input("Peso do personagem: "),
-    gender = input("Gênero do personagem: "),
-    orientation = input("Orientação sexual do personagem: "),
-
+    height = input("Altura do personagem: ") + "m"
+    weight = input("Peso do personagem: ") + "kg"
+    gender_choices = [
+        "Homem",
+        "Mulher",
+        "Trans",
+        "Não-binário",
+        "Outro",
+    ]
+    gender = inquirer.prompt([
+        inquirer.List('gender',
+                      message="Gênero do personagem",
+                      choices=gender_choices,
+                      ),
+    ])['gender']
+    orientation_choices = [
+        "Hétero",
+        "Gay",
+        "Bissexual",
+        "Pansexual",
+        "Outro"
+    ]
+    orientation = inquirer.prompt([
+        inquirer.List('orientation',
+                      message="Orientação sexual do personagem",
+                      choices=orientation_choices,
+                      ),
+    ])['orientation']
     # Narrative
-    game = input("Nome do RPG: ")
+    game_choices = [
+        "Dungeons and Dragons",
+        "Chamado de Cthulhu",
+        "Cyberpunk RED",
+        "Ordem Paranormal",
+        "Outro"
+    ]
+    game = inquirer.prompt([
+        inquirer.List('game',
+                      message="Sistema do RPG",
+                      choices=game_choices,
+                      ),
+    ])['game']
     summary = input("Escreva uma descrição curta (150): ")[:150]
     description = input("Escreva uma descrição (350): ")[:350]
     feats = input("Seus maiores feitos (150): ")[:150]
