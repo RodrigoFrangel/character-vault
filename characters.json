@@ -219,53 +219,5 @@
             "Hrodric de Aizengart"
         ],
         "player": "Rodrigo Frangel"
-    },
-    {
-        "name": "aaaaaaaaaaaaaaaa",
-        "alias": "aaaaaaaaaaaaaaaaa",
-        "age": "aaaaaaaaaaaaaaaaaaa",
-        "status": "Morto",
-        "debut": "Cataclisma: Capítulo Final",
-        "race": "aaaaaaaaaaaaaaaaa",
-        "height": "123m",
-        "weight": "123kg",
-        "gender": "aaaaaaaaaaaaaaaaaaaaaa",
-        "summary": "123123123123",
-        "orientation": "Hétero",
-        "game": "fffffffffffffffffffffffffff",
-        "description": "123123123123",
-        "feats": "1231231231232",
-        "death": "123213",
-        "background": "11111111111111111",
-        "origin": "1111111111111",
-        "alignment": "1111111111111111",
-        "friends": [
-            "11111111111111111111"
-        ],
-        "player": "Felipe Souza"
-    },
-    {
-        "name": "",
-        "alias": "",
-        "age": "",
-        "status": "Vivo",
-        "debut": "A Espada Vol. 1",
-        "race": "",
-        "height": "m",
-        "weight": "kg",
-        "gender": "Homem",
-        "summary": "",
-        "orientation": "Hétero",
-        "game": "Dungeons & Dragons",
-        "description": "",
-        "feats": "aaaaaaaaaaaaaaaaaaaa",
-        "death": "a",
-        "background": "",
-        "origin": "",
-        "alignment": "",
-        "friends": [
-            ""
-        ],
-        "player": "Felipe Souza"
     }
 ]
