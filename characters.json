@@ -15,6 +15,7 @@
         "feats": "Matou os magos mais fortes de seu tempo, salvou a grande capital de Eli e viveu para ver os frutos de seus esforços ao lado das pessoas que salvou",
         "death": "",
         "background": "Elias foi um professor universitário com doutorado em psicologia, que vivia uma vida feliz ao lado de sua esposa Cassandra, antes do mundo acabar",
+        "origin": "São Paulo",
         "alignment": "Caótico e Bom",
         "friends": [
             "Percival",
@@ -39,6 +40,7 @@
         "feats": "Financiou a renovação da Vila dos Ferreiros e ofereceu uma vida melhor para todos seus habitantes. Elias faleceu como um homem amado por todos",
         "death": "Velhice",
         "background": "",
+        "origin": "São Paulo",
         "alignment": "Bom",
         "friends": [
             "Jessica",
@@ -63,6 +65,7 @@
         "description": "",
         "feats": "Saved the realm of Goldring from an powerful demon prince, was crowned king of the biggest kingdom in the realm and became the last of its kind",
         "background": "Bess was a god-like being known as Perpetual.  It decided to become human in an effort to understand mortals and save them from its own siblings",
+        "origin": "",
         "alignment": "Caótico e Bom/Leal e Bom/Caótico e Neutro",
         "friends": [
             "Vall",
@@ -86,6 +89,7 @@
         "feats": "Saved the world from The Yellow King's return, killed Hitler, died and was ressurrected, and then defeated Nyarlathotep, saving the world a again",
         "death": "",
         "background": "As a little girl, Miranda lost her mother, lived in the streets, became a toy to a rich sadistic man, became paraplegic and was thrown on the streets",
+        "origin": "Massachussets",
         "alignment": "Caótico e Neutro",
         "friends": [
             "Nenhum"
@@ -109,6 +113,7 @@
         "feats": "Salvou cinco elfas e mais de 80 escravos, matou um Behir, um druida doidão, e purificou a alma do príncipe anão",
         "death": "",
         "background": "Rodrigo cresceu com jogos e coisas nerds, sempre sonhando em um dia ser um herói ele mesmo. Um dia, ele conseguiu realizar seu desejo",
+        "origin": "Sorocaba",
         "alignment": "Caótico e Bom",
         "friends": [
             "Rhuan Mascaro",
@@ -133,6 +138,7 @@
         "feats": "Matou o Cardial, salvou um vilarejo e se sacrificou para salvar sua mulher",
         "death": "Pacto com a entidade do sangue",
         "background": "Um homem que via o laddo bom da vida, estudava o que amava não por obrigação, mas porque amava criar histórias, principalmente para ver sua mulher com",
+        "origin": "",
         "alignment": "Caótico e bom",
         "friends": [
             "Elias"
@@ -156,6 +162,7 @@
         "feats": "Salvou o Reino de Goldryn, Fez alianças poderosas com Reinos vizinhos e Matou a Lilith",
         "death": "",
         "background": "Na juventude Vall faltava as aulas de combate para ir funicar com as empregadas e mulheres bonitas aos redores",
+        "origin": "",
         "alignment": "Caótico e Neutro",
         "friends": [
             "Bess",
@@ -180,6 +187,7 @@
         "feats": "Ressuscitou muitas vidas ao lado de Elias.",
         "death": "Causa desconhecida",
         "background": "Soldado médico, lutou na Segunda Guerra Mundial, teve uma família e um filho que o odiava.",
+        "origin": "Sul do Brasil",
         "alignment": "Caótico Neutro",
         "friends": [
             "Pelé",
@@ -187,5 +195,29 @@
             "Elias"
         ],
         "player": "Rhuan Mascaro"
+    },
+    {
+        "name": "Alexa Kierralys",
+        "alias": "Dama da Cura",
+        "age": "0",
+        "status": "Vivo",
+        "debut": "Mundo Isekai",
+        "race": "Eco humano",
+        "height": "1,57m",
+        "weight": "54kg",
+        "gender": "Mulher",
+        "summary": "",
+        "orientation": "Omnissexual",
+        "game": "Dungeons & Dragons",
+        "description": "",
+        "feats": "Está constantemente salvando a vida de seus companhiros e os ressuscitando",
+        "death": "",
+        "background": "",
+        "origin": "Desconhecido",
+        "alignment": "Leal e Bom",
+        "friends": [
+            "Hrodric de Aizengart"
+        ],
+        "player": "Rodrigo Frangel"
     }
 ]
